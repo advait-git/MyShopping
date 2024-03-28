@@ -80,4 +80,5 @@ public class AppUser {
     public void setPhoneNumber(Long phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
+    //hi this is a test appuser
 }
